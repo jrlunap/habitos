@@ -4,7 +4,7 @@
 ================================================================
 
 Abrir la app:
-https://TUUSUARIO.github.io/habitos/
+https://jrlunap.github.io/habitos/
 
 Es gratis, no necesitas cuenta y funciona sin internet una vez
 instalada. Tus datos se guardan solo en tu dispositivo.
